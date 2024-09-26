@@ -2,3 +2,31 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body{
+  font-family:Arial, sans-serif;
+}
+
+p{
+  padding-left:100px;
+}
+
+h1{
+  padding-left:100px;
+}
+
+h2{
+  padding-left:100px;
+}
+
+h3{
+  padding-left:100px;
+}
+
+ul{
+  padding-left:125px;
+}
+
+li{
+  padding-bottom:5px;
+}
